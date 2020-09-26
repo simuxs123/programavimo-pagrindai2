@@ -1,0 +1,6 @@
+Volkswagen Polo     678 17.3
+Renault Clio        990 34.8
+Ford Focus          1025 50.5
+Peugeot 207         664 28.4
+Nissan Micra        845 33.2
+Toyota Auris        999 45.4

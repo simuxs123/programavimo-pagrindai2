@@ -1,0 +1,7 @@
+Volkswagen Polo     2.55  
+Renault Clio        3.52  
+Nissan Micra        3.93  
+Peugeot 207         4.28  
+Toyota Auris        4.54  
+Ford Focus          4.93  
+Daugiausiai km. nuvaziavo: Ford Focus          
